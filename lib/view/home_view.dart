@@ -69,7 +69,7 @@ class _HomeViewState extends State<HomeView> {
                 showSnackBar(
                   context,
                   color: Colors.green,
-                  title: 'Success.',
+                  title: 'Successssssssss.',
                   icon: Icons.check_circle,
                 );
               }
